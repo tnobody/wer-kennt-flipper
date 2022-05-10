@@ -1,0 +1,81 @@
+[
+    {
+        "question":"Studienausflug Gardasee - Tobi \n\n Was passierte während die Kollegen die Autos von dem 5 Minuten entfernten Parkplatz holten?",
+        "a": "Philipp überzeugte Bettina, dass eine Runde Hugo doch schnell geht. Alle mussten daraufhin auf die Beiden warten, bis der XXL Hugo gemixt und verzehrt war. Die ausgelassen Stimmung während der Heimfahrt im Auto, war dabei etwas einseitig verteilt.",
+        "b": "Bettina wurde in den Pool geschmissen - “Sie musste sich abkühlen”. Daraufhin kam der Hotelbesitzer und erteilte der ganzen Gruppe Hausverbot.",
+        "c": "Philipp Und Bettina entschieden sich für eine spontane Shopping Tour durch die Stadt und waren nicht mehr auffindbar. Beide Handys ware aus und die Gruppe musste mehrere Stunden warten, da sie sich dachten “die werden dann schon anrufen”",
+        "d": "Während den 5-10 Minuten Abwesenheit, veräppelte Philipp Bettina wegen Ihren Ausweisbild wobei ihre Nase etwas in Mitleidenschaft gezogen wurde. Bettina musste die Nase 6 Stunden bei der Heimfahrt kühlen und in Ingolstadt vom Krankenhaus checken lassen.",
+        "answer": "d",
+        "author": {
+            "name": "Tobi",
+            "avatar": "tobi.jpg"
+        },
+        "solutionKey": "9"
+    },
+    {
+        "question":"Als Student ist man immer auf der Suche nach kostengünstigen Einrichtungsgegenständen. Welches Objekt zierte die WG von Philipp und Tim in München nach einem Feuchtfröhlichen Abend?",
+        "a": "Ein Parkverbotsschild, welches lose auf der Straße lag",
+        "b": "Ein Weihnachtsbaum der ungesichert vor einer Kneipe stand",
+        "c": "Ein Fahrrad, denn das kann man immer gebrauchen",
+        "d": "Ein Döner, denn der hat noch jede Wohnung schöner gemacht",
+        "answer": "b",
+        "author": {
+            "name": "Tim",
+            "avatar": "tim.jpg"
+
+        },
+        "solutionKey": "3"
+    },
+    {
+        "question":"Thailand Sommer 2012\n\nWas hat Philipp in Thailand **nicht** erlebt?",
+        "a": "Mit einem Gecko im Zimmer geschlafen",
+        "b": "Das Lichterfest in Chiang Mai besucht",
+        "c": "Nachts im Dschungel ein Zimmer gesucht",
+        "d": "Einem Tuk Tuk Fahrer aufgesessen",
+        "answer": "b",
+        "author": {
+            "name": "Catrin",
+            "avatar": "cati.jpg"
+        },
+        "solutionKey": "8"
+    },
+    {
+        "question":"Welches Tier trug Philipp in Ägypten auf dem Kopf?",
+        "a": "Kamel",
+        "b": "Eidechse",
+        "c": "Elefant",
+        "d": "Taube",
+        "answer": "b",
+        "author": {
+            "name": "Michi",
+            "avatar": "michi.jpg"
+        },
+        "solutionKey": "2"
+    },
+    {
+        "question":"Philipp war im Studienschwerpunkt der Hahn im Korb und umgeben von einer Gruppe hübscher Studentinnen, die sich allseits einen Namen gemacht haben. Wie hieß die Gruppe der bezaubernden jungen Studentinnen, mit denen Philipp abhing?",
+        "a": "Die WhatsApp Girlies ",
+        "b": "Die Facebook Chicas",
+        "c": "Die Sharepoint Mädels",
+        "d": "Die Outlook Ladies",
+        "answer": "c",
+        "author": {
+            "name": "Sandra",
+            "avatar": "sandra.jpg"
+        },
+        "solutionKey": "4"
+    },
+    {
+        "question":"Welchem deutschen TV-Moderator sieht Wolfi laut Philipp zum verwechseln ähnlich.",
+        "a": "Markus Lanz",
+        "b": "Günther Jauch",
+        "c": "Frank Plasberg",
+        "d": "Kai Pflaume",
+        "answer": "c",
+        "author": {
+            "name": "Wolfi",
+            "avatar": "wolfi.jpg"
+        },
+        "solutionKey": "7"
+    }
+]
